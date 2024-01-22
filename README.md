@@ -5,7 +5,7 @@
 A simple python project to sort messy files in a folder
 
 ## Installation
-Go to the [Release](https://github.com/aamirraza1206/SortMachine/releases/tag/Release) page and click SortMachine.exe
+Go to the [Release](https://github.com/aamirraza1206/SortMachine/releases/tag/v1.0.0) page and click SortMachine.exe
 
 ## How to use
 Move the SortMachine.exe to the folder you want to sort and double-click the .exe file
