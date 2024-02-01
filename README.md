@@ -9,3 +9,5 @@ Go to the [Release](https://github.com/aamirraza1206/SortMachine/releases/tag/v1
 
 ## How to use
 Move the SortMachine.exe to the folder you want to sort and double-click the .exe file
+
+![Sorting Files](https://github.com/aamirraza1206/SortMachine/assets/88135004/95f6fa65-908f-4ccd-977a-9a343b30355c)
